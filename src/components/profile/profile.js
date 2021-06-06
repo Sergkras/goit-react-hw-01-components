@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from 'prop-types';
-import anyone from './profile.png';
+import anyone from '../../img/defaultAv.jpg';
 
 import "./profile.css"
 
