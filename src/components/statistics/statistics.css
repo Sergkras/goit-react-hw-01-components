@@ -7,6 +7,7 @@
   width: 400px;
   overflow: hidden;
   border-radius: 5px;
+  background-color: rgb(237, 241, 241);
   color: rgb(65, 65, 92);
   border: 2px solid rgb(226, 223, 223);
   box-shadow: 2px 4px 4px 2px rgba(49, 52, 66, 0.3);
@@ -33,7 +34,7 @@
   align-items: center;
   justify-content: center;
   padding: 20px;
-  background-color: rgb(247, 247, 247);
+  background-color: rgb(237, 241, 241);
 
   width: calc(100% / 5);
   height: 100%;

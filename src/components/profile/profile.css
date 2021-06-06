@@ -5,6 +5,7 @@
   width: 300px;
   overflow: hidden;
   border-radius: 5px;
+  background-color: rgb(237, 241, 241);
   color: rgb(65, 65, 92);
   border: 2px solid rgb(226, 223, 223);
   box-shadow: 2px 4px 4px 2px rgba(49, 52, 66, 0.3);
@@ -45,7 +46,7 @@
   justify-content: center;
   padding: 20px;
   width: calc(100% / 3);
-  background-color: rgb(222, 222, 241);
+  background-color: rgb(173, 186, 189);
 }
 
 .profile-statistics-item:not(:first-child) {
